@@ -1,0 +1,130 @@
+
+nav.navbar.navbar-expand-md.navbar-light.navbar-laravel {
+    background-color: #000000;
+    color: white;
+}
+
+h5.card-header.info-color.white-text.text-center.py-4 {
+
+    background-color: #33b5e5;
+    color: aliceblue;
+}
+
+
+
+.btn-primary {
+    color: #800000;
+    background-color: #ffffff;
+    border-color: #e0e9f1;
+}
+
+
+
+li.nav-item.dropdown {
+    list-style: none;
+
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+a {
+    color: #faffff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.container.add {
+    width: 420px;
+    background-color: #2fc5ca;
+    height: max-content;
+    border-radius: 10px;
+}
+
+label.bmd-label-floating {
+    color: white;
+}
+
+.card-header.bar {
+    width: 83px;
+    background-color: #e68585;
+    color: white;
+    border-radius: 10px;
+    border-bottom: solid 1px coral;
+}
+
+
+.card-header.b {
+    background-color: indianred;
+    color: white;
+    width: 124px;
+}
+
+.form-elegant .font-small {
+    font-size: 0.8rem; }
+
+    .form-elegant .z-depth-1a {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25);
+    box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25); }
+
+    .form-elegant .z-depth-1-half,
+    .form-elegant .btn:hover {
+    -webkit-box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15); }
+
+
+a {
+        text-decoration: none;
+    }
+
+    .Booksc {
+    color: white;
+}
+
+.card.ca {
+
+    margin: inherit;
+
+}
+
+.col-sm-3.user {
+    border: solid 4px #fcfcfc;
+    margin: 25px 9px;
+    border-radius: 7px;
+    background: #443f3f;
+    color: aliceblue;
+    box-shadow: 2px 4px 5px #aaa;
+    padding: 13px;
+}
+
+.section-title.h1 {
+    text-align: center;
+    color: #4b8c4b;
+}
+.a {
+    background-color: whitesmoke;
+    
+}
+
+.admin {
+    color: white;
+    font-family: initial;
+   
+}
+
+.row.g {
+    padding: initial;
+    padding-bottom: 40px;
+    margin: 0px -41px;
+}
+
+.card-img-top.por {
+    width: 165px;
+    margin: auto;
+}
